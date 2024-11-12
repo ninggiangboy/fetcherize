@@ -1,0 +1,20 @@
+{
+  "name": "fetcherize",
+  "version": "1.0.0",
+  "description": "A simple library used for making HTTP requests.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "prepare": "npm run build",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ninggiangboy",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
