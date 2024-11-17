@@ -1,6 +1,6 @@
 {
   "name": "fetcherize",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A simple library used for making HTTP requests.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,6 +12,26 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "http-client",
+    "fetch",
+    "fetcher",
+    "http",
+    "request",
+    "api-client",
+    "typescript",
+    "interceptor",
+    "retry",
+    "timeout",
+    "type-safe",
+    "formdata",
+    "promise",
+    "axios-alternative",
+    "rest-client",
+    "networking",
+    "browser",
+    "async"
+  ],
   "author": "ninggiangboy",
   "license": "ISC",
   "devDependencies": {
